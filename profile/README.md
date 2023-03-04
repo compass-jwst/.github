@@ -1,3 +1,5 @@
+![](logo.png)
+
 COMPASS
 -------
 Welcome! The COMPASS (Compositions of Mini-Planets for Atmospheric Statistical Study) Program is a JWST exoplanet atmospheres survey designed to build a critical link between atmospheric characterization and planetary demographics.
