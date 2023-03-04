@@ -1,4 +1,4 @@
-![](logo.png)
+![](https://github.com/compass-jwst/.github/blob/master/profile/logo.png?raw=true)
 
 COMPASS
 -------
